@@ -2,4 +2,4 @@
 
 ## https://spotify-clone-psi-puce.vercel.app
 
-![image](./)
+![Alt text](screencapture.png)
